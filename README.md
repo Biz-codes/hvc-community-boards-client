@@ -169,6 +169,11 @@ Priority - Medium
 
 ### 2A. User Flows
 ![Landing & Signup Pages](/github-images/user-flows-landing-signup.jpg)
+![Home Page](/github-images/user-flows-home.jpg)
+![Forgot Password, Report a Problem & New Message Pages](/github-images/user-flows-forgotpassword-report-newmessage.jpg)
+![Marketplace Page - Bulletin Board](/github-images/user-flows-marketplace-bulletin-board.jpg)
+![Marketplace Page - Business Directory](/github-images/user-flows-marketplace-directory-newlisting-editlisting.jpg)
+![Mailbox & NavBar](/github-images/user-flows-mailbox-messagethread-navbar.jpg)
 
 
 ### 3. Functionality
