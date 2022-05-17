@@ -12,6 +12,28 @@ You can access a working prototype of the React app here: https://blahblahblah.v
 ### 2. User Stories
 This app is for two types of users: community members and teachers.
 
+##### Landing Page (Priority - Highest)
+* as a prospective member
+* I want to view basic info about the app
+* so that I can decide whether to join
+
+##### Landing Page/Login Form (Priority - Highest)
+* as a registered community member or teacher
+* I want to enter my login information, using a form with built-in validation
+* so I can access the community boards
+
+##### Landing Page/Login Link to Home Page (Priority - Highest)
+* as a registered community member or teacher
+* I want to click log in and be redirected to the Home Page (once my credentials are verified)
+* so I can connect with the general HVC community
+
+##### Landing Page Link to Signup Page (Priority - Highest)
+* as a prospective member
+* I want to click on a link to a signup form
+* so that I can create my account
+
+
+
 Priority - Highest
 * as a community member or teacher
 * I want to sign up for an account
@@ -107,7 +129,8 @@ Priority - Medium
 
 
 
-##### Landing Page/Sign Up Page
+
+#### Signup Page
 * as a visitor,
 * I want to sign up for an account,
 * so I can view and write reviews
@@ -117,10 +140,7 @@ Priority - Medium
 * I want to log into a demo account,
 * so I can try out the app
 
-##### Landing Page/Log In Page
-* as a logged-in user,
-* I want to log into my account,
-* so I can search for and write reviews
+
 
 ##### Reviews Page
 * as a logged-in user,
