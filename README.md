@@ -167,6 +167,8 @@ Priority - Medium
 * I want to edit businesses and services I have added
 * in case I made errors, or something has changed about their contact information
 
+### 2A. User Flows
+![Landing & Signup Pages](/github-images/user-flows-landing-signup.jpg)
 
 
 ### 3. Functionality
