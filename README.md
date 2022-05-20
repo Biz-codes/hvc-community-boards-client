@@ -14,7 +14,7 @@ This app is for two types of users: community members and teachers.
 
 ##### Landing Page (Priority - Highest)
 * as a prospective member
-* I want to view basic info about the app
+* I want to view basic info about the app, as well as what is required to join
 * so that I can decide whether to join
 
 ##### Landing Page/Login Form (Priority - Highest)
@@ -32,160 +32,202 @@ This app is for two types of users: community members and teachers.
 * I want to click on a link to a signup form
 * so that I can create my account
 
-
-
-Priority - Highest
+##### Signup Page (Priority - Highest)
 * as a community member or teacher
-* I want to sign up for an account
+* I want to fill out a form to sign up for an account
 * so I can join the HVC Community Boards
 
-Priority - Highest
+##### Signup Page Link to Landing Page (Priority - Highest)
+* as a community member or teacher
+* I want to click on Back to Login
+* so I can go back to the Landing page to sign in, or to reread information there
+
+##### Signup Page Link to Membership Pending Page (Priority - Highest)
+* as a community member or teacher
+* I want to submit my signup form and be taken to the Membership Pending Page
+* so I know that my form was submitted
+
+##### Membership Pending Page (Priority - Highest)
+* as a community member or teacher
+* I want to view a message that my membership is pending
+* so I will know approximately how long until I can use my account
+
+##### Home Page (Community Hub Board) (Priority - Highest)
 * as a community member or teacher
 * I want to view the Community Hub Board
 * so I can connect with the general HVC community
 
-Priority - High
+##### Home Page (Community Hub Board) (Priority - Highest)
 * as a community member or teacher
 * I want to post to the Community Hub Board
 * so I can reach out to the general HVC community
 
-Priority - High
+##### Home Page (Community Hub Board) (Priority - High)
 * as a community member or teacher
 * I want to edit or delete my own posts
 * so I can fix, update, or remove them
 
-Priority - High
+##### Home Page (Community Hub Board) (Priority - High)
 * as a community member or teacher
 * I want to comment on other users' posts
 * so I can have conversations with other users
 
-Priority - Highest
+##### Home Page (Community Hub Board) (Priority - Medium)
 * as a community member or teacher
-* I want to view the HVC Marketplace Boards
+* I want to edit or delete my own comments
+* so I can fix, update, or remove them
+
+##### Home Page Link to Marketplace Page (Priority - Medium)
+* as a community member or teacher
+* I want to click a on a link to the Marketplace Page
+* so I can go look for community members to support
+
+##### Marketplace Page (Bulletin Board) (Priority - Medium)
+* as a community member or teacher
+* I want to view the HVC Marketplace Bulletin Board
 * so I can look for businesses to support or items to buy
 
-Priority - Highest
+##### Marketplace Page (Bulletin Board) (Priority - Medium)
 * as a community member or teacher
-* I want to post to the HVC Marketplace Boards
+* I want to post to the HVC Marketplace Bulletin Board
 * so I can share my business or items with other users
 
-Priority - High
+##### Marketplace Page (Bulletin Board) (Priority - Lower)
+* as a community member or teacher
+* I want to edit or delete my own posts
+* so I can fix, update, or remove them
+
+##### Marketplace Page (Bulletin Board) Link to (Business Directory)
+* as a community member or teacher
+* I want to click a tab to open the Business Directory
+* so I can interact with the directory section of the Marketplace
+
+##### Marketplace Page (Business Directory) Link to (Bulletin Board)
+* as a community member or teacher
+* I want to click a tab to open the Bulletin Board
+* so I can interact with the bulletin board section of the Marketplace
+
+##### Marketplace Page (Business Directory) (Priority - Medium)
+* as a community member or teacher
+* I want to view the HVC Marketplace Business Directory
+* so I can check out businesses to support in the HVC community
+
+##### Marketplace Page (Business Directory) (Priority - Lower)
+* as a community member or teacher
+* I want to search for businesses by title
+* so I can find a specific business name
+
+##### Marketplace Page (Business Directory) (Priority - Lower)
+* as a community member or teacher
+* I want to filter businesses by category or location
+* so I can find an HVC community member to support in that category and/or location
+
+##### Marketplace Page (Business Directory) Link to New Listing Page (Priority - Medium)
+* as a community member or teacher
+* I want to click a link to add a new listing
+* so I can enter information about my business
+
+##### New Listing Page (Priority - Medium)
+* as a community member or teacher
+* I want to fill out a form with information about my business
+* so that I can add my business to the directory
+
+##### New Listing Page Link to Business Directory (Priority - Medium)
+* as a community member or teacher
+* I want to submit my form and be taken back to the Marketplace Business Directory
+* so that I can add my business and go back to checking out others
+
+##### Links to Report a Problem Page (Priority - High)
+* as a community member or teacher
+* I want to be able to click a link on any page to Report a Problem
+* so I can report issues to the site administrator
+
+##### Report a Problem Page (Priority - High)
+* as a community member or teacher
+* I want to fill out a form to report issues to the site administrator
+* so they can monitor and address any concerns with site performance or user conduct
+
+##### Report a Problem Page Link to Home Page (Priority - High)
+* as a community member or teacher
+* I want to submit my form and be taken back to the Home Page
+* so I can send my concerns to the administrator and go back to exploring the boards
+
+##### NavBar (Priority - Highest)
+* as a community member or teacher
+* I want to be able to click in the Nav Bar and link to the most important pages of the app
+* so that I can navigate the site easily
+
+##### All Boards (Priority - Medium)
+* as a teacher
+* I want to delete any content that does not adhere to community norms
+* so everyone feels safe
+
+
+##### To be added in future versions
+
+#### Mailbox Page
+
+
+#### New Message Page
+
+
+#### Message Thread Page
+
+##### Marketplace Page (Business Directory) Link to Edit Listing Page (Priority - Low)
+* as a community member or teacher
+* I want to click an edit button link on my listing
+* so I can enter fix or update information about my business
+
+#### Edit Listing Page (Priority - Low)
+* as a community member or teacher
+* I want to fill out a form to edit information about my business
+* so that I can fix or update my listing
+
+Priority - Lower
 * as a community member or teacher
 * I want to send private messages to other users
 * so I can connect privately about posts I see on various Boards
 
-Priority - High
+Priority - Lower
 * as a community member or teacher
 * I want to view and respond to my private messages
 * so I can connect privately with other users
 
-Priority - Medium
+Priority - Low
 * as a community member
 * I want to join Boards for classes and casts
 * so I can connect about topics related to those specific groups
 
-Priority - Medium
+Priority - Low
 * as a community member or teacher
 * I want to view, post and comment on Boards for classes and casts
 * so I can converse with my class/castmates
 
-Priority - Medium
+Priority - Low
 * as a teacher
 * I want to invite members to join classes and casts I run
 * so I can get all my students connected to group Boards
 
-Priority - Medium
+Priority - Low
 * as a teacher
 * I want to set up a profile for my class or cast
 * so members feel welcome, and because it's fun!
 
-Priority - Medium
+Priority - Low
 * as a teacher
 * I want to approve or reject user requests to join my class or cast
 * so that users are only joining their relevant groups
 
-Priority - Medium
+Priority - Lowest
 * as a community member
 * I want to create a simple profile
 * so other users know who I am
 
-Priority - High
-* as a community member or teacher
-* I want to report issues to the site administrator
-* so they can monitor and address any concerns with site performance or user conduct
-
-Priority - High
-* as a teacher
-* I want to delete any post or comment that does not adhere to community norms
-* so everyone feels safe
-
-Priority - Medium
+Priority - Lowest
 * as a community member or teacher
 * I want to view other users' profiles
 * so I can find out more about them
 
-
-
-
-
-
-
-#### Signup Page
-* as a visitor,
-* I want to sign up for an account,
-* so I can view and write reviews
-
-##### Landing Page/Log In Page
-* as a visitor,
-* I want to log into a demo account,
-* so I can try out the app
-
-
-
-##### Reviews Page
-* as a logged-in user,
-* I want to search for reviews by business name, zipcode, state, category and/or identity group,
-* so I can find reviews of relevant businesses and services where I can have positive experiences
-
-##### Businesses Page
-* as a logged-in user,
-* I want to search for businesses and services by name, zipcode state and/or category,
-* so I can review businesses/services I have visited, and visit ones from the Reviews Page
-
-##### Businesses Page
-* as a logged-in user,
-* I want to click on link buttons for each business or service
-* so I can add a business or write a review
-
-##### me-friendly Page
-* as a logged-in user,
-* I want to view, edit and delete reviews I have written,
-* so I can manage the reviews I write
-
-##### me-friendly Page
-* as a logged-in user,
-* I want to view and edit businesses and services I have added to the database,
-* so I can follow a link to write a review
-
-##### Add Review Page
-* as a logged-in user,
-* I want to write and post reviews 
-* To share my experiences with other users
-
-##### Add Business Page 
-* as a logged-in user,
-* I want to add information for businesses and services
-* so that other people and I can review them
-
-##### Edit Review Page
-* as a logged-in user,
-* I want to edit my previous reviews
-* in case I made errors or have had a different experience
-
-##### Edit Business Page
-* as a logged-in user,
-* I want to edit businesses and services I have added
-* in case I made errors, or something has changed about their contact information
 
 ### 2A. User Flows
 ![Landing & Signup Pages](/github-images/user-flows-landing-signup.jpg)
