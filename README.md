@@ -230,12 +230,12 @@ Priority - Lowest
 
 
 ### 2A. User Flows
-![Landing & Signup Pages](/github-images/user-flows-landing-signup.jpg)
-![Home Page](/github-images/user-flows-home.jpg)
-![Forgot Password, Report a Problem & New Message Pages](/github-images/user-flows-forgotpassword-report-newmessage.jpg)
-![Marketplace Page - Bulletin Board](/github-images/user-flows-marketplace-bulletin-board.jpg)
-![Marketplace Page - Business Directory](/github-images/user-flows-marketplace-directory-newlisting-editlisting.jpg)
-![Mailbox & NavBar](/github-images/user-flows-mailbox-messagethread-navbar.jpg)
+![Landing & Signup Pages](/github-images/user-flows/user-flows-landing-signup.jpg)
+![Home Page](/github-images/user-flows/user-flows-home.jpg)
+![Forgot Password, Report a Problem & New Message Pages](/github-images/user-flows/user-flows-forgotpassword-report-newmessage.jpg)
+![Marketplace Page - Bulletin Board](/github-images/user-flows/user-flows-marketplace-bulletin-board.jpg)
+![Marketplace Page - Business Directory](/github-images/user-flows/user-flows-marketplace-directory-newlisting-editlisting.jpg)
+![Mailbox & NavBar](/github-images/user-flows/user-flows-mailbox-messagethread-navbar.jpg)
 
 
 ### 3. Functionality
@@ -265,11 +265,11 @@ Landing Page
 :-------------------------:
 ![Landing Page](/github-images/wireframes/landing-page.jpeg)
 Sign Up Page
-![Sign Up Page](/github-images/wireframes/sign-up-page.jpg)
+![Signup Page](/github-images/wireframes/sign-up-page.jpg)
 Log In Page
-![Log In Page](/github-images/wireframes/log-in-page.jpeg)
+![Home Page](/github-images/wireframes/log-in-page.jpeg)
 Reviews Page
-![Reviews Page](/github-images/wireframes/reviews.jpg)
+![Marketplace Page](/github-images/wireframes/reviews.jpg)
 Businesses Page
 !["Businesses Page"](/github-images/wireframes/businesses.jpeg)
 "me-friendly" Page 
