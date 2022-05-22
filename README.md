@@ -263,26 +263,21 @@ The app's functionality (v1.0) includes:
 ### 5. Wireframes
 Landing Page
 :-------------------------:
-![Landing Page](/github-images/wireframes/landing-page.jpeg)
+![Landing Page](/github-images/wireframes/landing.png)
 Sign Up Page
-![Signup Page](/github-images/wireframes/sign-up-page.jpg)
+![Signup Page](/github-images/wireframes/signup.png)
 Log In Page
-![Home Page](/github-images/wireframes/log-in-page.jpeg)
+![Home Page](/github-images/wireframes/home.png)
 Reviews Page
-![Marketplace Page](/github-images/wireframes/reviews.jpg)
+![Marketplace Page (Bulletin Board)](/github-images/wireframes/bulletin-board.png)
 Businesses Page
-!["Businesses Page"](/github-images/wireframes/businesses.jpeg)
+![Marketplace Page (Business Directory)](/github-images/wireframes/business-directory.png)
 "me-friendly" Page 
-![me-friendly Page](/github-images/wireframes/me-friendly.jpg)
+![New Listing Page](/github-images/wireframes/new-listing.png)
 Add Review
-![Add Review](/github-images/wireframes/add-review.jpg)
+![Membership Pending Page](/github-images/wireframes/membership-pending.png)
 Edit Review
-![Edit Review](/github-images/wireframes/edit-review.jpg)
-Add Business
-![Add Business](/github-images/wireframes/add-business.jpeg)
-Edit Business
-![Edit Business](/github-images/wireframes/edit-business.jpeg)
-
+![Report a Problem Page](/github-images/wireframes/report-a-problem.png)
 
 
 
